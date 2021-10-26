@@ -1,27 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Update stream generated automatically by Akeeba Release System on 2021-09-15 12:46:11 GMT -->
-<updates>
-	<update>
-		<name><![CDATA[JFilters PRO]]></name>
-		<description><![CDATA[JFilters PRO]]></description>
-		<element>pkg_jfilters</element>
-		<type>package</type>
-		<version>1.0.0RC</version>
-		<infourl title="JFilters PRO 1.0.0RC">
-			<![CDATA[https://Blue-coder.com/download/jfilters-pro/1-0-0rc			]]>
-		</infourl>
-		<downloads>
-			<downloadurl type="full" format="zip"><![CDATA[https://Blue-coder.com/download/jfilters-pro/1-0-0rc/pkg_jfilters-1-0-0rc_pro-zip?format=raw&dummy=my.zip]]>
-			</downloadurl>
-		</downloads>
-		<tags>
-			<tag>rc</tag>
-		</tags>
-		<maintainer><![CDATA[BlueCoder]]></maintainer>
-		<maintainerurl>https://Blue-coder.com/</maintainerurl>
-		<section>Updates</section>
-		<targetplatform name="joomla" version="4.0"/>
-							<client>1</client>
-				<folder/>
-			</update>
-	</updates>
+<updates><update><name>JFilters PRO</name><element>pkg_jfilters</element><type>package</type><version>1.0.0RC2</version><infourl title="JFilters PRO 1.0.0RC2">https://blue-coder.com/component/ars/items/1-0-0rc2?category_id=1</infourl><downloads><downloadurl type="full" format="zip">https://blue-coder.com/component/ars/item/pkg-jfilters-1-0-0rc2-pro.zip?format=zip&amp;category_id=1&amp;release_id=4</downloadurl></downloads><tags><tag>rc</tag></tags><targetplatform name="joomla" version="4\.0"/><sha256>ba24683edf200f7cb6cc9a4e46bbf307fa00394b2e1dfc005bd19907289d308d</sha256><client>site</client></update></updates>
